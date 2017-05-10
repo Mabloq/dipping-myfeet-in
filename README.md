@@ -1,14 +1,14 @@
-#LinkIt jQuery Plugin#
+# LinkIt jQuery Plugin #
 
 **Linkit** is a simple jQuery plugin to attach links to elements
 
-##Version##
+## Version#
 0.1.0
-
-##Usage##
-
-##Vendors##
+___
+## Usage ##
+___
+## Vendors ##
 jQuery - [Http://jquery.com](http://jquery.com)
-
-##License##
+___
+## License ##
 MIT License
