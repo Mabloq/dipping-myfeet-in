@@ -4,11 +4,11 @@
 
 ## Version#
 0.1.0
-___
+
 ## Usage ##
-___
+
 ## Vendors ##
 jQuery - [Http://jquery.com](http://jquery.com)
-___
+
 ## License ##
 MIT License
